@@ -24,6 +24,10 @@ Installation from GitHub:
 
 Main changes:
 
+    15mar2025 (version 1.0.5)
+    - standard errors were wrong if option over() was specified since the influence
+      functions were not rescaled in relation to subgroup size; this is fixed
+
     20dec2020 (version 1.0.4)
     - refined computations of influence functions such that they have a mean exactly
       equal to zero for all statistics (apart from roundoff error); results for
