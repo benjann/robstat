@@ -1,8 +1,8 @@
 v 3
 d robstat: Stata module to estimate robust univariate statistics
 d 
-d Author: Ben Jann, University of Bern, ben.jann@soz.unibe.ch
+d Author: Ben Jann, University of Bern, ben.jann@unibe.ch
 d
-d Distribution-Date: 20201222
+d Distribution-Date: 20250315
 f robstat.ado
 f robstat.sthlp
